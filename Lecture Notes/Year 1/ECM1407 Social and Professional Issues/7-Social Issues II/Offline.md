@@ -38,3 +38,10 @@ Explainable AI consists of a set of tools/frameworks that enable us to understan
 Example - Prototypical structures:
 ![[Pasted image 20221127180814.png]]
 
+
+### Black Boxes
+
+![[Pasted image 20221130093142.png]]
+
+A black box is a device or system which produces useful infomation without revealing any infomation about its internal workings
+
