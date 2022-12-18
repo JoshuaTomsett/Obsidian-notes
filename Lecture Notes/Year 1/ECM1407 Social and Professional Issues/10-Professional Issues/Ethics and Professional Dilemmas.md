@@ -69,11 +69,12 @@ Should you delay the lauch of a product that believe is unsafe
 
 #### Conflict of Interest
 
-
+Should you disclose  a relationship that might influence tour judgement
 
 #### Copyright Infringement
 
-
+Should you share a copy of copyrighted materials with a colleague
 
 #### Reporting Crime
 
+Should you report a colleague who is doing something illegal

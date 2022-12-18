@@ -24,7 +24,7 @@ Converse : q$\implies$p
 
 Contrapositive : ¬q$\implies$¬p
 
-Inverse : ¬p$\implies$¬p
+Inverse : ¬p$\implies$¬q
 
 ###### Biconditional
 
